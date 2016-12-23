@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "I:\\AndroidStudioProjects\\konran8RaundoFree\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "I:\\AndroidStudioProjects\\konran8RaundoFree\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 44,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 91,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "I:\\AndroidStudioProjects\\konran8RaundoFree\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 91,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "I:\\AndroidStudioProjects\\konran8RaundoFree\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "I:\\AndroidStudioProjects\\konran8RaundoFree\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

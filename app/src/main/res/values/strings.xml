@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">紛亂的八個回合</string>
+
+    <string name="dbCacheLocation">/data/data/com.zkiz.ec.konran8raundo/databases/</string>
+
+</resources>

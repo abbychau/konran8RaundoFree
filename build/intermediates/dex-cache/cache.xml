@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="I:\Development\android_sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="I:\AndroidStudioProjects\konran8RaundoFree\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_960d8925196ce58d44578634d2474a3709aca091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\AndroidStudioProjects\konran8RaundoFree\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="I:\AndroidStudioProjects\konran8RaundoFree\app\build\intermediates\transforms\dex\debug\folders\1000\2\GoogleAdMobAdsSdk-6.4.1_7e4f4b0b1f127fc8427ae32dbeb96565be7f56ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\AndroidStudioProjects\konran8RaundoFree\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7eb902679a44f9d5307877d41d51d705ca7dbf52">
+        <dex dex="I:\AndroidStudioProjects\konran8RaundoFree\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_faef979085f9122fef224ad4359e64a67f02aa74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\AndroidStudioProjects\konran8RaundoFree\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6dc972c97aecd1b72d6dd0806bf7ba671a89c3a2">
+        <dex dex="I:\AndroidStudioProjects\konran8RaundoFree\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0e6bc2ad67731999070cb691bf698d1c9eac3ad\classes.dex" />
+    </item>
+
+</items>

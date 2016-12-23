@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="I:\AndroidStudioProjects\konran8RaundoFree\app\src\main\assets"><file name="missing.html" path="I:\AndroidStudioProjects\konran8RaundoFree\app\src\main\assets\missing.html"/></source><source path="I:\AndroidStudioProjects\konran8RaundoFree\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="I:\AndroidStudioProjects\konran8RaundoFree\app\src\debug\assets"/></dataSet></merger>

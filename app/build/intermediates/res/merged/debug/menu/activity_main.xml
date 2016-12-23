@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/menu_save"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Save"/>
+    <item
+        android:id="@+id/menu_load"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Load"/>
+    <item
+        android:id="@+id/menu_back_to_home"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Home Screen"/>
+    <item
+        android:id="@+id/menu_fb_fan"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Facebook Fan Page"/>       
+
+    <item
+        android:id="@+id/menu_about_ec"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="About Endless Choice"/>  
+        
+    <item
+        android:id="@+id/menu_rate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Rate Me on Play Store"/>
+</menu>
